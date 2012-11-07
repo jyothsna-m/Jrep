@@ -1,6 +1,5 @@
 Jrep
 ====
 
-Jyothsna test Rep
-
-Jyothsna testing the push and commit
+Jyothsna test
+testing the push and commit
